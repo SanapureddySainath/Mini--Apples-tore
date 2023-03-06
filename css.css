@@ -1,0 +1,156 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Orbitron&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Orbitron&family=Poiret+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Orbitron&family=Poiret+One&family=Sawarabi+Mincho&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Lato&family=Orbitron&family=Poiret+One&family=Sawarabi+Mincho&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Baloo+2&family=Lato&family=Orbitron&family=Poiret+One&family=Sawarabi+Mincho&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Baloo+2&family=Lato&family=Orbitron&family=Outfit:wght@600&family=Poiret+One&family=Sawarabi+Mincho&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Baloo+2&family=Lato&family=Noto+Sans+KR:wght@500&family=Orbitron&family=Outfit:wght@600&family=Poiret+One&family=Sawarabi+Mincho&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anybody&family=Architects+Daughter&family=Baloo+2&family=Comfortaa:wght@500&family=Lato&family=Noto+Sans+KR:wght@500&family=Orbitron&family=Outfit:wght@600&family=Poiret+One&family=Sawarabi+Mincho&display=swap');
+
+
+
+
+
+
+
+
+*{
+    background-color: black ;
+}
+
+.text1{
+    color: white;
+    display: flex;
+    gap: 30px;
+    font-size: 30px;
+    margin-left: 150px;
+    margin-top: -50px;
+    font-family: 'Orbitron', sans-serif;
+
+}
+.text2{
+    display: flex;
+    gap: 30px;
+    margin-left: 950px;
+    font-size: 33px;
+    margin-top: -39px;
+    font-family: 'Poiret One', cursive;
+
+}
+.avatar{
+    display: inline-flex;
+    margin-left: 1200px;
+    margin-top: -39px;
+}
+.content1{
+    height: 160%;
+}
+.content{
+    color: white;
+    font-family: 'Comfortaa', cursive;
+    font-size: 50px;
+    margin-top: 110px;
+    margin-left: 324px;
+    color: #fff;
+  text-shadow:
+      0 0 7px #fff,
+      0 0 10px #fff,
+      0 0 21px #fff,
+      0 0 42px #0fa,
+      0 0 82px #0fa,
+      0 0 92px #0fa,
+      0 0 102px #0fa,
+      0 0 151px #0fa;
+
+
+
+
+}
+.iphonetext{
+    color: white;
+    font-family: 'Comfortaa', cursive;
+    font-size: 60px;
+    text-align: center;
+    margin-top: 90px;
+
+}
+
+.phone{
+    margin-left: 250px;
+    
+    margin-top: 40px;
+}
+.ipadtext{
+    color: white;
+    font-family: 'Comfortaa', cursive;
+    text-align: center;
+    font-size: 60px;
+
+}
+.ipad{
+    margin-left: 250px;
+    margin-top: 40px;
+}
+.watch{
+    text-align: center;
+    color:#FFFFFF;
+    font-family: 'Comfortaa', cursive;
+    font-size: 60px;
+    letter-spacing: 1px;
+    margin-top: 40px;
+
+}
+.watchh{
+    letter-spacing: 3px;
+}
+.watchtext{
+    font-size: 70px;
+}
+.series{
+    color: red;
+    font-size: 25px;
+}
+.watchimg{
+    margin-top: 40px;
+    margin-left: 250px;
+}
+.macbook{
+    text-align: center;
+    color: white;
+    font-family: 'Comfortaa', cursive;
+    font-size: 70px;
+    margin-top: 40px;
+
+}
+.macbookimg{
+    margin-left: 250px;
+
+}
+.airpods{
+    text-align: center;
+    color: white;
+    font-family: 'Comfortaa', cursive;
+    font-size: 70px;
+    margin-top: -100px;
+}
+.airpodsimg{
+    height: 50px;
+    margin-left: 250px;
+}
+
+
+
+img{
+    height: 650px;
+    width: 700px;
+    display: flex;
+    border: #0fa;
+    border-radius: 6px;
+    
+}
+a{
+    color: white;
+    text-decoration: none;
+}
